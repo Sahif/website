@@ -1,8 +1,8 @@
-var $contactForm = $('#contactForm');
+﻿var $contactForm = $('#contactForm');
 $contactForm.submit(function(e) {
 	e.preventDefault();
 	$.ajax({
-		url: '//formspree.io/sahif_ali@hotmail.co.nz',
+		url: 'sahif_ali@hotmail.co.nz',
 		method: 'POST',
 		data: $(this).serialize(),
 		dataType: 'json',
