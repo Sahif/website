@@ -210,7 +210,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 	color: #333;
 }
 #about img {
-	border-radius: 80%;
+	border-radius: 2%;
 	width: 240px;
 	height: 250px;
 	display: inline-block;
