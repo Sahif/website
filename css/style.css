@@ -446,7 +446,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 	left: 40px;
 	width: 2px;
 	margin-left: -1.5px;
-	background-color: #eee;
+	background-color: #616e7c;
 }
 .timeline>li {
 	position: relative;
@@ -483,10 +483,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 	z-index: 100;
 	position: absolute;
 	left: 0;
-	width: 70px;
-	height: 70px;
+	width: 80px;
+	height: 85px;
 	margin-left: 0;
-	border: 1px solid #eee;
+	border: 1px solid #616e7c;
 	border-radius: 100%;
 	text-align: center;
 	background: #fff;
@@ -841,5 +841,7 @@ header .intro-text {
 }
 #emoticon{
 	font-size:150px;
-
+	
+	
+	
 }
